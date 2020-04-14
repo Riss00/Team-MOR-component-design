@@ -1,3 +1,5 @@
+/* team MOR component design stylesheet */
+
 html{
   scroll-behavior: smooth;
 }
@@ -73,7 +75,6 @@ h2{
 h3{
   color: #72CE9B;
   font-size: 22px;
-}
 
 /*fifth grid item*/
 /*buttons*/

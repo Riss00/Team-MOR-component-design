@@ -68,14 +68,16 @@ h1{
 h2{
   font-size: 30px;
   font-weight: bold;
-  color: #A71930
+  color: #A71930;
+  font-family: sans-serif;
 }
 
 /*fourth grid item*/
 h3{
   color: #72CE9B;
   font-size: 22px;
-
+  font-family: sans-serif;
+}
 /*fifth grid item*/
 /*buttons*/
 #buttons .btn-menu{
@@ -87,6 +89,7 @@ h3{
 	margin: auto;
 	background-color: #6b6b75; /*navbar color */
   color: white;
+  border-radius: 5px;
 }
 
 #buttons .btn-menu:hover{
@@ -111,6 +114,7 @@ h3{
 	margin: auto;
 	background-color: #ff8838; /*supplementary color */
   color: white;
+  border-radius: 5px;
 }
 
 #buttons .btn-primary:hover{
@@ -135,6 +139,7 @@ h3{
 	margin: auto;
 	background-color: white; /*primary background color */
   color: #6b6b75; /*navbar color */
+  border-radius: 5px;
 }
 
 #buttons .btn-secondary:hover{
